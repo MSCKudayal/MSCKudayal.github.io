@@ -1,0 +1,16 @@
+{
+  "Type" : "Notification",
+  "MessageId" : "601e907c-8ede-57d9-b0b1-ce272bee739a",
+  "TopicArn" : "arn:aws:sns:us-west-2:168560209239:pubsubsvc_OpsModONTIssues-Alarm-132599-0",
+  "Subject" : "OpsModONTIssues-Alarm",
+  "Message" : "Subject : OpsModONTIssues\nPlease click on the link below to download (or view) the report: \nhttps://uswe2-prod-reports.s3.us-west-2.amazonaws.com/132599/0/alarm/opsmodontissues_2024-03-01t09%3A42%3A08%3A354_452.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240301T094208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=AKIASOPXYVVL6NJ2GX74%2F20240301%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=c056e04f77555117640c0c0f5ddd1ecfbd22ba9bdee0a7201d749c3f43a60838\n\nCreation date: 2024-03-01T09:42:08Z\nThank you for choosing Calix Operations Cloud.",
+  "Timestamp" : "2024-03-01T09:42:08.757Z",
+  "SignatureVersion" : "1",
+  "Signature" : "CzN47RSONNAIOZDduHDLwadEoTQexmZLBbD4R4fp20HHCwgX0R2sxerar21AnywJV3pCliKdzOLmElNZ7ooThxk5S9LLYHDxq1IyrxUY0FvJxGD1n6iej4Xk/tHAFGnaobMinSRaD4qY5t6p27TXs8MjMMxPUOGvlX96okBW/3LoNEZM/upFrjRV9zRMQlTBjE1BPBTrZ1BB7ntnE3kzo22LlwqFVViZZYOPxBFKc+fb8YBK9Y8G3pPj1/aMrdcuSPFef8KhItpDiPpcD56btySMao2u/ZWgL4eq7AiK2lY80gijT2XjKo8fVV2blgapW8QYv9YJnWSaIqWB80GMow==",
+  "SigningCertURL" : "https://sns.us-west-2.amazonaws.com/SimpleNotificationService-60eadc530605d63b8e62a523676ef735.pem",
+  "UnsubscribeURL" : "https://sns.us-west-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-west-2:168560209239:pubsubsvc_OpsModONTIssues-Alarm-132599-0:c977d970-4653-4638-9529-52e728670f5f",
+  "MessageAttributes" : {
+    "AWS.SNS.SMS.SMSType" : {"Type":"String","Value":"Transactional"},
+    "AWS.MM.SMS.OriginationNumber" : {"Type":"String","Value":"+18665192874"}
+  }
+}
